@@ -11,4 +11,5 @@ Here, we use a custom requirements file to install a large number of dependencie
 
 Test image:
 
-test image.PNG
+[test image.PNG
+](https://github.com/MouhamedN96/Multi-View-3D-Diffusion-Model/blob/0a9ded8f7bb05d02352b17b8dc3c2f9fd8b9d79b/test%20image.PNG)
