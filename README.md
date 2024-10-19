@@ -10,3 +10,5 @@ Here, we use a custom requirements file to install a large number of dependencie
 !pip install -r https://huggingface.co/spaces/dylanebert/multi-view-diffusion/raw/main/requirements.txt
 
 Test image:
+
+test image.PNG
